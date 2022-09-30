@@ -17,6 +17,9 @@ char *message(int num)
     case 4:
         return "Roses are red, violets are blue. There is always an asian that is better than you.\n";
 
+    case 5:
+        return "You are such a failure.\n";
+
     default:
         return "No pretty message for you.\n";
     }
