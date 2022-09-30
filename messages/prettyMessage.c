@@ -20,6 +20,9 @@ char *message(int num)
     case 5:
         return "You are such a failure.\n";
 
+    case 6:
+        return "Death by snu-snu !!!\n";
+
     default:
         return "No pretty message for you.\n";
     }
